@@ -1,0 +1,6 @@
+{
+  "name": "Portofolio Salwa Jihan Aulia - Sistem Informasi",
+  "description": "Portofolio interaktif Salwa Jihan Aulia, mahasiswa Sistem Informasi Universitas Komputama Cilacap yang berfokus pada analisis proses bisnis, perancangan TPS, MIS, dan DSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
